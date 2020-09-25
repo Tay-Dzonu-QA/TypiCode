@@ -1,0 +1,14 @@
+header{
+    background-color: slategray;
+    height: 70px;
+    color: gold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.TChead{
+    margin-left:10px;
+    
+}
+a{
+    color:black;
+    font-weight: bold;
+}
